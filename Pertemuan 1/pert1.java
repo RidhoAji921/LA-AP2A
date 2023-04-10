@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class pert1{
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);  // Create a Scanner object
+        Scanner scanner = new Scanner(System.in);
         System.out.println("----------LA AP2A----------");
         System.out.print("Masukkan Nama\t\t: ");
         String nama = scanner.nextLine();
